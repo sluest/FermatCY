@@ -4,7 +4,7 @@ This repository contains the Mathematica code used to generate the data on Ferma
 
 ## Content
 
-- Fermat.CY: The main Mathematica notebook that contains all relevant code to reproduce the results and figures from the paper.
+- Fermat.nb: The main Mathematica notebook that contains all relevant code to reproduce the results and figures from the paper.
 - cydata.txt: 
 
 ## Reference
