@@ -7,7 +7,7 @@ This repository contains the Mathematica code used to generate the data on Ferma
 $h^{3,1}=h^{3,1}_\text{poly}$
 
 - Fermat.nb: The main Mathematica notebook that contains all relevant code to reproduce the results and figures from the paper.
-- cydata.txt: A database of 609 Fermat-type Calabi-Yau four-folds with $h^{3,1}=h^{3,1}_\text{poly}$ and $h^{3,1}-h^{3,1}_\text{inv} < 5000$. 
+cydata.txt: A database of 609 Fermat-type Calabi-Yau four-folds with $h^{3,1}=h^{3,1}_\text{poly}$ and $h^{3,1}-h^{3,1}_\text{inv} < 5000$. 
 
 ## Reference
 If you use this code, please cite the following paper:
