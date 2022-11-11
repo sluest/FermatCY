@@ -1,6 +1,6 @@
 # FermatCY
 
-This repository contains the Mathematica code used to generate the data on Fermat-type Calabi-Yau four-folds used in the paper <i>"The Tadpole Conjecture in the Interior of Moduli Space"</i> by S. Lüst and M. Wiesner.
+This repository contains the Mathematica code used to generate the data on Fermat-type Calabi-Yau four-folds used in the paper <i>"The Tadpole Conjecture in the Interior of Moduli Space"</i> by S. Lüst and M. Wiesner (https://arxiv.org/pdf/2211.05128.pdf).
 
 ## Content
 
@@ -10,5 +10,5 @@ This repository contains the Mathematica code used to generate the data on Ferma
 ## Reference
 If you use this code, please cite the following paper:
 ```
-"The Tadpole Conjecture in the Interior of Moduli Space," Severin Lüst and Max Wiesner.
+"The Tadpole Conjecture in the Interior of Moduli Space," Severin Lüst and Max Wiesner, [arXiv:2211.05128 [hep-th]].
 ``` 
